@@ -1,0 +1,39 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+h1 {
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h4 {
+    color: red;
+}
+#camera {
+    width: 500px;
+    height: 400px;
+}
+img:hover{
+    border-radius: 140px;
+}
+#result1_div {
+    width: auto;
+    border-radius: 100px;
+    padding-top: 10%;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2, 0.2);
+}
+#result2_div {
+width: auto;
+border-radius: 100px;
+padding-top: 10%;
+box-shadow: 0 6px 8px 0 rgba(2,2,2, 0.2);
+}
+#result3_div {
+    width: auto;
+    border-radius: 100px;
+    padding-left: 10%;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2, 0.2);
+}
